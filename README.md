@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Web Dev Frameworks and Fundamentals of AI**
 
-- 📈 My CodeChef Rating: <a href="https://www.codechef.com/users/gayathri_yerra" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="20" width="20" /></a> **4★ (Star)**
+- 📈 My CodeChef Rating: [![CodeChef Rating](https://img.shields.io/badge/dynamic/json?style=flat-square&color=orange&label=CodeChef&query=stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/gayathri_yerra)](https://www.codechef.com/users/gayathri_yerra) **2★ (1414 rating)**
 
-- 💻 My HackerRank Certificates: <a href="https://www.hackerrank.com/profile/y_gayathri0506" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="20" width="20" /></a> **5★ (Problem Solving)**, **4★ (Python)**
+- 💻 My HackerRank Certificates: [![HackerRank Profile](https://img.shields.io/badge/dynamic/json?style=flat-square&color=green&label=HackerRank&query=badges&url=https://www.hackerrank.com/profile/y_gayathri0506)](https://www.hackerrank.com/profile/y_gayathri0506) **5★ (Problem Solving)**, **4★ (Python)**
 
 - 🧑‍💻 Most used languages: Python, JavaScript, C, HTML, CSS
-  
-- 🏢 LinkedIn Overview: <a href="https://www.linkedin.com/in/gayathri-yerra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /></a> **Profile Summary Available**
+
+- 🏢 LinkedIn Overview: [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/gayathri-yerra) **Profile Summary Available**
 
 - 🔥 GitHub Contributions: ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
 
@@ -60,4 +60,4 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyerra&show_icons=true&locale=en&layout=compact" alt="gyerra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyerra&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,html" alt="gyerra" /></p>
