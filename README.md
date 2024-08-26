@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Web Dev Frameworks and Fundamentals of AI**
 
-- 📈 My CodeChef Rating: [Link to CodeChef profile](https://www.codechef.com/users/gayathri_yerra)
-  
-- 💻 My HackerRank Stats: [Link to HackerRank profile](https://www.hackerrank.com/y_gayathri0506)
+- 📈 My CodeChef Rating: <a href="https://www.codechef.com/users/gayathri_yerra" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="20" width="20" /></a> **4★ (Star)**
+
+- 💻 My HackerRank Certificates: <a href="https://www.hackerrank.com/profile/y_gayathri0506" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="20" width="20" /></a> **5★ (Problem Solving)**, **4★ (Python)**
 
 - 🧑‍💻 Most used languages: Python, JavaScript, C, HTML, CSS
   
-- 🏢 LinkedIn Overview: [Gayathri Yerra - LinkedIn](https://linkedin.com/in/gayathri-yerra)
+- 🏢 LinkedIn Overview: <a href="https://www.linkedin.com/in/gayathri-yerra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /></a> **Profile Summary Available**
 
 - 🔥 GitHub Contributions: ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
 
@@ -26,7 +26,7 @@
 <a href="https://fb.com/gayathri yerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gayathri yerra" height="30" width="40" /></a>
 <a href="https://instagram.com/gayathri__yerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayathri__yerra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gayathri_yerra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gayathri_yerra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/y_gayathri0506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="y_gayathri0506" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/y_gayathri0506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="y_gayathri0506" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gayathriyerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gayathriyerra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gayathriyerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayathriyerra" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/gayathri yerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gayathri yerra" height="30" width="40" /></a>
