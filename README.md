@@ -5,21 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=gyerra&label=Profile%20views&color=0e75b6&style=flat" alt="gyerra" />
 </p>
 
-- 🌱 I’m currently learning **Web Dev Frameworks and Fundamentals of AI**
+- 🌱 I’m currently learning **Web Development Frameworks and Fundamentals of AI**
 
-- 📈 My CodeChef Rating: [![CodeChef Rating](https://img.shields.io/badge/CodeChef-1414-orange)](https://www.codechef.com/users/gayathri_yerra) **2★ (1414 rating)**
+- 📈 **CodeChef Rating**: [2★ (1414 rating)](https://www.codechef.com/users/gayathri_yerra)
 
-- 💻 My HackerRank Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-5★%20Problem%20Solving-brightgreen)](https://www.hackerrank.com/profile/y_gayathri0506) | [![HackerRank Python](https://img.shields.io/badge/HackerRank-4★%20Python-brightgreen)](https://www.hackerrank.com/profile/y_gayathri0506)
+- 💻 **HackerRank Certifications**: [5★ Problem Solving](https://www.hackerrank.com/profile/y_gayathri0506), [4★ Python](https://www.hackerrank.com/profile/y_gayathri0506)
 
-- 🧑‍💻 Most used languages: Python (30%), JavaScript (25%), C (20%), HTML (15%), CSS (10%)
+- 🧑‍💻 **Most Used Languages**: Python, JavaScript, C, HTML, CSS
 
-- 🏢 LinkedIn Overview: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile%20Available-blue)](https://www.linkedin.com/in/gayathri-yerra)
+- 🏢 **LinkedIn**: [Profile Overview](https://www.linkedin.com/in/gayathri-yerra)
 
-- 🔥 GitHub Contributions: ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
+- 🔥 **GitHub Contributions**: ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
 
-- 📫 How to reach me: **y.gayathri0506@gmail.com**
+- 📫 **Contact Me**: y.gayathri0506@gmail.com
 
-- ⚡ Fun fact: **I once tried to debug a sandwich—turns out, breadboards aren't edible!**
+- ⚡ **Fun Fact**: I once tried to debug a sandwich—turns out, breadboards aren't edible!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
