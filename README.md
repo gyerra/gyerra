@@ -13,7 +13,7 @@
 
 - 🧑‍💻 **Most Used Languages**: Python, JavaScript, C, HTML, CSS
 
-- 🏢 **LinkedIn**: [Profile Overview](https://www.linkedin.com/in/gayathri-yerra)
+- 🏢 **LinkedIn**: [Gayathri Yerra](https://www.linkedin.com/in/gayathri-yerra)
 
 - 🔥 **GitHub Contributions**: ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
 
