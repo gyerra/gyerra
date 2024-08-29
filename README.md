@@ -65,3 +65,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyerra&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,html" alt="gyerra" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=gyerra&theme=rogue&hide_border=true&bg_color=0d1117&color=f8f8f2&line=ff79c6&point=bd93f9" alt="gyerra" />
+</p>
