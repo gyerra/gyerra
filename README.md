@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=gyerra&label=Profile%20views&color=0e75b6&style=flat" alt="gyerra" />
 </p>
 
-- 🌱 I’m currently learning **Web Development Frameworks and Fundamentals of AI**
+- 🌱 I’m currently learning **VLSI and ML Concepts**
 
 - 📈 **CodeChef Rating**: [2★ (1414 rating)](https://www.codechef.com/users/gayathri_yerra)
 
