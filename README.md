@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VLSI and ML Concepts**
 
-- 📈 **CodeChef Rating**: [2★ (Highest rating - 1488)](https://www.codechef.com/users/gayathri_yerra)
+- 📈 **CodeChef Rating**: [2★](https://www.codechef.com/users/gayathri_yerra)
 
 - 💻 **HackerRank Certifications**: [5★ Problem Solving](https://www.hackerrank.com/profile/y_gayathri0506), [4★ Python](https://www.hackerrank.com/profile/y_gayathri0506)
 
