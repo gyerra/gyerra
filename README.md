@@ -1,67 +1,44 @@
 <h1 align="center">Hi 👋, I'm Gayathri Yerra</h1>
-<h3 align="center">Exploring the Intersection of AI and Embedded Sytems | Sophomore in Electronics and Communications from India</h3>
+<h3 align="center">Exploring the Intersection of AI and Data Communications | ECE Sophomore from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gyerra&label=Profile%20views&color=0e75b6&style=flat" alt="gyerra" />
 </p>
 
-- 🌱 I’m currently learning **VLSI and ML Concepts**
+## 🚀 About Me
+- 🌱 Currently learning **Communication and AIML Concepts**
+- 💻 Passionate about Python, JavaScript, C, and Wireless Communications
+- 📈 **CodeChef**: [2★](https://www.codechef.com/users/gayathri_yerra)
+- 🏆 **HackerRank**: [5★ Problem Solving](https://www.hackerrank.com/profile/y_gayathri0506), [4★ Python](https://www.hackerrank.com/profile/y_gayathri0506)
 
-- 📈 **CodeChef Rating**: [2★](https://www.codechef.com/users/gayathri_yerra)
+## 🛠 Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- 💻 **HackerRank Certifications**: [5★ Problem Solving](https://www.hackerrank.com/profile/y_gayathri0506), [4★ Python](https://www.hackerrank.com/profile/y_gayathri0506)
-
-- 🧑‍💻 **Most Used Languages**: Python, JavaScript, C, HTML, CSS
-
-- 🏢 **LinkedIn**: [Gayathri Yerra](https://www.linkedin.com/in/gayathri-yerra)
-
-- 🔥 **GitHub Contributions**: ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
-
-- 📫 **Contact Me**: y.gayathri0506@gmail.com
-
-- ⚡ **Fun Fact**: I once tried to debug a sandwich—turns out, breadboards aren't edible!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/gayathri__yerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayathri__yerra" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/gayathri-yerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayathri yerra" height="30" width="40" /></a>
-  <a href="https://fb.com/gayathri yerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gayathri yerra" height="30" width="40" /></a>
-  <a href="https://instagram.com/gayathri__yerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayathri__yerra" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/gayathri_yerra" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gayathri_yerra" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/y_gayathri0506" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="y_gayathri0506" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/gayathriyerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gayathriyerra" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/gayathriyerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayathriyerra" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/gayathri yerra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gayathri yerra" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark" alt="gyerra's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyerra&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,html" alt="gyerra" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyerra&layout=compact&theme=dark&hide=html,css" alt="gyerra's top languages" />
 </p>
+
+## 🤝 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/gayathri-yerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/gayathri__yerra" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.hackerrank.com/profile/y_gayathri0506" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/gayathri_yerra" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+</p>
+
+## 📫 How to reach me
+- Email: y.gayathri0506@gmail.com
+
+⚡ **Fun Fact**: I once tried to debug a sandwich—turns out, breadboards aren't edible!
+
