@@ -28,7 +28,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyerra&layout=compact&theme=dark&hide=html,css" alt="gyerra's top languages" />
 </p>
+
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/gyerra/contributions)
+
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/gyerra/highlights)
 
 ## 🤝 Connect with me
