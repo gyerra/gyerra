@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=gyerra&label=Profile%20views&color=0e75b6&style=flat" alt="gyerra" />
 </p>
 
-## 🚀 About Me
-- 🌱 Currently learning **Communication and AIML Concepts**
-- 💻 Passionate about Python, JavaScript, C, and Wireless Communications
-- 📈 **CodeChef**: [2★](https://www.codechef.com/users/gayathri_yerra)
-- 🏆 **HackerRank**: [5★ Problem Solving](https://www.hackerrank.com/profile/y_gayathri0506), [4★ Python](https://www.hackerrank.com/profile/y_gayathri0506)
+##  About Me
+- Currently learning **Communication and AIML Concepts**
+- Passionate about Python, JavaScript, C, and Wireless Communications
+- **CodeChef**: [2★](https://www.codechef.com/users/gayathri_yerra)
+- **HackerRank**: [5★ Problem Solving](https://www.hackerrank.com/profile/y_gayathri0506), [4★ Python](https://www.hackerrank.com/profile/y_gayathri0506)
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,6 +28,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyerra&layout=compact&theme=dark&hide=html,css" alt="gyerra's top languages" />
 </p>
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/gyerra/contributions)
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/gyerra/highlights)
 
 ## 🤝 Connect with me
 <p align="center">
@@ -39,6 +41,4 @@
 
 ## 📫 How to reach me
 - Email: y.gayathri0506@gmail.com
-
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/gyerra/highlights)
 
