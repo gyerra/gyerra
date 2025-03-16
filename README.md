@@ -40,5 +40,5 @@
 ## 📫 How to reach me
 - Email: y.gayathri0506@gmail.com
 
-⚡ **Fun Fact**: I once tried to debug a sandwich—turns out, breadboards aren't edible!
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/gyerra/highlights)
 
