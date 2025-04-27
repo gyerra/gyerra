@@ -44,7 +44,7 @@ Hey there! I'm **Gayathri Yerra**, an ECE sophomore from India obsessed with wea
 
 ### Hardware & Platforms
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 ## 🏆 Coding Achievements
 - **CodeChef**: [2★](https://www.codechef.com/users/gayathri_yerra)  
