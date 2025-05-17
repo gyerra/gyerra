@@ -10,7 +10,7 @@ Hey there! I'm **Gayathri Yerra**, an ECE sophomore from India obsessed with wea
 - **Passionate About**: Writing efficient code, tinkering with ESP32, and crafting interfaces that feel like magic with just a few lines.  
 - **Quirky Obsession**: I geek out over how minimalist code can create buttery-smooth UIs that steal the show in any app or domain!  
 
-## 🧰 My Tech Arsenal
+## My Tech Arsenal
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
