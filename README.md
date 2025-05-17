@@ -6,7 +6,6 @@ Hey there! I'm **Gayathri Yerra**, an ECE sophomore from India obsessed with wea
   <img src="https://komarev.com/ghpvc/?username=gyerra&label=Profile%20views&color=0e75b6&style=flat" alt="gyerra" />
 </p>
 
-##  About Me
 - **Currently Exploring**: AI-driven networks, real-time data systems, and pixel-perfect UIs.  
 - **Passionate About**: Writing efficient code, tinkering with ESP32, and crafting interfaces that feel like magic with just a few lines.  
 - **Quirky Obsession**: I geek out over how minimalist code can create buttery-smooth UIs that steal the show in any app or domain!  
