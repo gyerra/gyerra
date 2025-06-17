@@ -58,9 +58,6 @@ Hey there! I'm **Gayathri Yerra**, an ECE sophomore from India obsessed with wea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyerra&layout=compact&theme=dark&hide=html,css" alt="gyerra's top languages" />
 </p>
 
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/gyerra/contributions)  
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/gyerra/highlights)
-
 ## 🌐 Let’s Connect!
 <p align="center">
   <a href="https://linkedin.com/in/gayathri-yerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
