@@ -26,51 +26,6 @@ I don’t just experiment with models—I design **end-to-end applications** whe
 
 ---
 
-## 🧩 Featured Projects
-
-### 🔹 SmartStudyPro — AI Study Plan Generator
-
-**AI-powered academic planning system** that converts raw syllabus into structured, optimized study plans.
-
-* Uses **LLaMA 3 (via Groq API)** for fast, structured generation
-* Dynamic prompt engineering for personalized schedules
-* Built with **Next.js + LangChain**
-* Focus: usability, responsiveness, and real-time AI output
-
----
-
-### 🔹 QueryAssist — Intelligent Terminal Agent
-
-A **CLI-based AI agent** designed to assist developers with multi-step reasoning tasks.
-
-* Built using **LangGraph + LangChain** for agent workflows
-* Supports **tool usage, reasoning chains, and context memory**
-* Designed for **developer productivity and automation**
-* Extensible architecture for future integrations
-
----
-
-### 🔹 DNSpector — Network Intelligence & Monitoring Tool
-
-A **deep-dive DNS analysis system** combining low-level networking with visualization.
-
-* DNS response comparison across resolvers (8.8.8.8, 1.1.1.1, ISP)
-* Tracks **TTL changes & IP shifts** over time
-* Detects anomalies like **DNS hijacking / CDN changes**
-* CLI + Web dashboard (**Flask + Chart.js**)
-* Uses **Scapy for packet-level analysis**
-
----
-
-### 🔹 Additional Work
-
-* 🧠 **AI News Summarizer** — Real-time article summarization using LLMs
-* 🌌 **What If? Universe Builder** — Creative AI app generating hypothetical scenarios + media
-* 🏫 **ACM Chapter Website** — Full-stack development & deployment
-* 📊 **Retail Intelligence System (Power BI)** — Business insights dashboard
-
----
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
