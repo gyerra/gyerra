@@ -76,14 +76,6 @@ I don’t just experiment with models—I design **end-to-end applications** whe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyerra&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyerra&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🧭 What I’m Aiming For
