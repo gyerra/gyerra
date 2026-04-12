@@ -1,72 +1,165 @@
-#  Gayathri Yerra | Crafting AI, Comms & Sleek UIs
+# 👋 Hey, I'm Gayathri Yerra
 
-Hey there! I'm **Gayathri Yerra**, an ECE sophomore from India obsessed with weaving **AI**, **Data Communications**, and **sleek UI designs** into game-changing tech. I believe a few clever lines of code can spark elegant interfaces and revolutionize any domain—let’s make it happen! ⚡️
+### Building AI Systems • Crafting Scalable Apps 
+
+I’m an Electronics & Communication Engineering student from India, focused on building **intelligent, real-world systems** at the intersection of **AI, software engineering, and networks**.
+
+I don’t just experiment with models—I design **end-to-end applications** where AI integrates seamlessly into **usable, scalable products**.
+
+---
+
+## 🧠 My Engineering Philosophy
+
+* ⚡ Build **practical AI**, not just models
+* 🧩 Focus on **systems thinking** (how everything connects)
+* 🛠 Write code that is **clean, efficient, and extensible**
+* 📈 Always optimize for **real-world usability + performance**
+
+---
+
+## 🚀 Current Focus
+
+* 🧠 Developing **LLM-powered applications** using LangChain, LangGraph & Groq
+* 🌐 Building **full-stack AI apps** with Next.js and modern backend stacks
+* 📡 Exploring **AI in networking & real-time systems**
+* 🧮 Strengthening **DSA, problem solving & system design** 
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 SmartStudyPro — AI Study Plan Generator
+
+**AI-powered academic planning system** that converts raw syllabus into structured, optimized study plans.
+
+* Uses **LLaMA 3 (via Groq API)** for fast, structured generation
+* Dynamic prompt engineering for personalized schedules
+* Built with **Next.js + LangChain**
+* Focus: usability, responsiveness, and real-time AI output
+
+---
+
+### 🔹 QueryAssist — Intelligent Terminal Agent
+
+A **CLI-based AI agent** designed to assist developers with multi-step reasoning tasks.
+
+* Built using **LangGraph + LangChain** for agent workflows
+* Supports **tool usage, reasoning chains, and context memory**
+* Designed for **developer productivity and automation**
+* Extensible architecture for future integrations
+
+---
+
+### 🔹 DNSpector — Network Intelligence & Monitoring Tool
+
+A **deep-dive DNS analysis system** combining low-level networking with visualization.
+
+* DNS response comparison across resolvers (8.8.8.8, 1.1.1.1, ISP)
+* Tracks **TTL changes & IP shifts** over time
+* Detects anomalies like **DNS hijacking / CDN changes**
+* CLI + Web dashboard (**Flask + Chart.js**)
+* Uses **Scapy for packet-level analysis**
+
+---
+
+### 🔹 Additional Work
+
+* 🧠 **AI News Summarizer** — Real-time article summarization using LLMs
+* 🌌 **What If? Universe Builder** — Creative AI app generating hypothetical scenarios + media
+* 🏫 **ACM Chapter Website** — Full-stack development & deployment
+* 📊 **Retail Intelligence System (Power BI)** — Business insights dashboard
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+
+`Python` `Java` `C`
+
+### 🤖 AI / ML
+
+`TensorFlow` `PyTorch` `Scikit-learn`
+`LangChain` `LangGraph` `Groq API`
+`NumPy` `Pandas`
+
+### 🌐 Full Stack Development
+
+`Next.js` `React` `Node.js`
+`Tailwind CSS` `Flask`
+
+### 🗄 Databases & Backend
+
+`PostgreSQL` `MongoDB` `MySQL`
+`Supabase` `Firebase`
+
+### 📡 Systems, Networking & Tools
+
+`Wireshark` `Cisco Packet Tracer` `Scapy`
+`MATLAB` `Docker`
+
+---
+
+## 🏆 Achievements & Certifications
+
+* ⭐ **CodeChef**: 2★
+* ⭐ **HackerRank**: 5★ Problem Solving | 4★ Python
+
+### 📜 Certifications
+
+* Deep Learning with TensorFlow — IBM
+* Data Analysis with Python — freeCodeCamp
+* Docker Essentials — IBM
+* Foundations of Agents — Hugging Face
+* Geodata Processing using ML — IIRS ISRO
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyerra&label=Profile%20views&color=0e75b6&style=flat" alt="gyerra" />
-</p>
-
-- **Currently Exploring**: AI-driven networks, real-time data systems, and pixel-perfect UIs.  
-- **Passionate About**: Writing efficient code, tinkering with ESP32, and crafting interfaces that feel like magic with just a few lines.  
-- **Quirky Obsession**: I geek out over how minimalist code can create buttery-smooth UIs that steal the show in any app or domain!  
-
-## My Tech Arsenal
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-### AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Google Cloud AI](https://img.shields.io/badge/-Google%20Cloud%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Web Development
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Data Communication Tools
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-### Hardware & Platforms
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-
-
-## 🏆 Coding Achievements
-- **CodeChef**: [2★](https://www.codechef.com/users/gayathri_yerra)  
-- **HackerRank**: [5★ Problem Solving](https://www.hackerrank.com/profile/y_gayathri0506) | [4★ Python](https://www.hackerrank.com/profile/y_gayathri0506)
-
-## 📈 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark" alt="gyerra's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyerra&layout=compact&theme=dark&hide=html,css" alt="gyerra's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyerra&show_icons=true&theme=tokyonight" />
 </p>
 
-## 🌐 Let’s Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/gayathri-yerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/gayathri__yerra" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.hackerrank.com/profile/y_gayathri0506" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://www.codechef.com/users/gayathri_yerra" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyerra&layout=compact&theme=tokyonight" />
 </p>
 
-## 📧 Get in Touch
-Ping me at: **y.gayathri0506@gmail.com**
+---
 
-> "With a few lines of code, we can craft sleek UIs, smart networks, and a future that pops!"  
+## 🧭 What I’m Aiming For
+
+* 🧠 Building **AI systems that scale to real-world impact**
+* ⚙️ Mastering **DSA, system design, and backend engineering**
+* 🌍 Contributing to **open-source AI & developer tools**
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/gayathri-yerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/gayathri__yerra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/y_gayathri0506"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/gayathri_yerra"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+## 📬 Contact
+
+📧 **[y.gayathri0506@gmail.com](mailto:y.gayathri0506@gmail.com)**
+
+---
+
+## ✨ Fun Note
+
+I enjoy breaking down complex systems—whether it's **AI models, networks, or full-stack apps**—and rebuilding them into something that’s both **powerful and elegant**.
+
+---
+
+> *"Great engineering is where intelligence meets usability."*
