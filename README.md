@@ -10,25 +10,25 @@ I don’t just experiment with models—I design **end-to-end applications** whe
 
 ## 🧠 My Engineering Philosophy
 
-* ⚡ Build **practical AI**, not just models
-* 🧩 Focus on **systems thinking** (how everything connects)
-* 🛠 Write code that is **clean, efficient, and extensible**
-* 📈 Always optimize for **real-world usability + performance**
+*  Build **practical AI**, not just models
+*  Focus on **systems thinking** (how everything connects)
+*  Write code that is **clean, efficient, and extensible**
+*  Always optimize for **real-world usability + performance**
 
 ---
 
 ## 🚀 Current Focus
 
-* 🧠 Developing **LLM-powered applications** using LangChain, LangGraph & Groq
-* 🌐 Building **full-stack AI apps** with Next.js and modern backend stacks
-* 📡 Exploring **AI in networking & real-time systems**
-* 🧮 Strengthening **DSA, problem solving & system design** 
+*  Developing **LLM-powered applications** using LangChain, LangGraph & Groq
+*  Building **full-stack AI apps** with Next.js and modern backend stacks
+*  Exploring **AI in networking & real-time systems**
+*  Strengthening **DSA, problem solving & system design** 
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 
 `Python` `Java` `C`
 
@@ -55,10 +55,10 @@ I don’t just experiment with models—I design **end-to-end applications** whe
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
-* ⭐ **CodeChef**: 2★
-* ⭐ **HackerRank**: 5★ Problem Solving | 4★ Python
+*  **CodeChef**: 2★
+*  **HackerRank**: 5★ Problem Solving | 4★ Python
 
 ### 📜 Certifications
 
@@ -80,13 +80,13 @@ I don’t just experiment with models—I design **end-to-end applications** whe
 
 ## 🧭 What I’m Aiming For
 
-* 🧠 Building **AI systems that scale to real-world impact**
-* ⚙️ Mastering **DSA, system design, and backend engineering**
-* 🌍 Contributing to **open-source AI & developer tools**
+* Building **AI systems that scale to real-world impact**
+* Mastering **DSA, system design, and backend engineering**
+* Contributing to **open-source AI & developer tools**
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/gayathri-yerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -97,16 +97,9 @@ I don’t just experiment with models—I design **end-to-end applications** whe
 
 ---
 
-## 📬 Contact
+##  Contact
 
 📧 **[y.gayathri0506@gmail.com](mailto:y.gayathri0506@gmail.com)**
 
----
-
-## ✨ Fun Note
-
-I enjoy breaking down complex systems—whether it's **AI models, networks, or full-stack apps**—and rebuilding them into something that’s both **powerful and elegant**.
-
----
 
 > *"Great engineering is where intelligence meets usability."*
