@@ -28,39 +28,42 @@ I don’t just experiment with models—I design **end-to-end applications** whe
 
 ## 🛠 Tech Stack
 
-###  Languages
+### 💻 Programming Languages
+`Python` `Java` `C` `SQL`
 
-`Python` `Java` `C`
-
-### 🤖 AI / ML
-
-`TensorFlow` `PyTorch` `Scikit-learn`
-`LangChain` `LangGraph` `Groq API`
-`NumPy` `Pandas`
+### 🧠 AI / Machine Learning / GenAI
+`TensorFlow` `PyTorch` `Scikit-learn` `NumPy` `Pandas`  
+`LangChain` `LangGraph` `Sentence-BERT`  
+`OpenAI` `Groq API` `Gemini`  
+`RAG Systems` `AI Agents` `Prompt Engineering`
 
 ### 🌐 Full Stack Development
+`Next.js` `React.js` `Node.js` `Express.js`  
+`Flask` `REST APIs` `Tailwind CSS`
 
-`Next.js` `React` `Node.js`
-`Tailwind CSS` `Flask`
+### 🗄 Databases & Cloud
+`PostgreSQL` `MongoDB` `MySQL`  
+`Firebase` `Supabase`  
+`AWS`
 
-### 🗄 Databases & Backend
+### ⚙️ DevOps & Tools
+`Git` `GitHub` `Docker` `Postman`  
+`Vercel` `VS Code` `Jupyter` `Google Colab`
 
-`PostgreSQL` `MongoDB` `MySQL`
-`Supabase` `Firebase`
+### 📡 Systems, Networking & ECE
+`Socket Programming` `TCP/IP` `DNS` `HTTP/HTTPS`  
+`Scapy` `Wireshark`  
+`MATLAB` `Cadence Virtuoso` `Spectre`
 
-### 📡 Systems, Networking & Tools
-
-`Wireshark` `Cisco Packet Tracer` `Scapy`
-`MATLAB` `Docker`
-
----
-
-##  Achievements & Certifications
-
-*  **CodeChef**: 2★
+### 🏆 Competitive Programming
+CodeChef (2★ | max rating: 1544) • Codeforces (max rating: 1159)
 *  **HackerRank**: 5★ Problem Solving | 4★ Python
 
 ### 📜 Certifications
+* **AWS Certified Cloud Practitioner**
+* **Microsoft Azure AI Engineer Associate**
+* **Oracle Data Science Professional**  
+* **Microsoft Azure AI Fundamentals**
 
 * Deep Learning with TensorFlow — IBM
 * Data Analysis with Python — freeCodeCamp
