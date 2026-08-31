@@ -1,108 +1,97 @@
-# 👋 Hey, I'm Gayathri Yerra
+# Hi, I'm Gayathri Yerra
 
-### Building AI Systems • Crafting Scalable Apps 
+Electronics & Communication Engineering student from India interested in software development, machine learning, and computer networks.
 
-I’m an Electronics & Communication Engineering student from India, focused on building **intelligent, real-world systems** at the intersection of **AI, software engineering, and networks**.
+I build web applications, backend systems, and machine learning projects with a focus on simple design, performance, and scalability.
 
-I don’t just experiment with models—I design **end-to-end applications** where AI integrates seamlessly into **usable, scalable products**.
+## Current Focus
 
----
+* Data Structures and Algorithms
+* Backend Development
+* System Design
+* Machine Learning
+* Full-Stack Development
+* Computer Networks
 
-## 🧠 My Engineering Philosophy
+## Technical Skills
 
-*  Build **practical AI**, not just models
-*  Focus on **systems thinking** (how everything connects)
-*  Write code that is **clean, efficient, and extensible**
-*  Always optimize for **real-world usability + performance**
+### Languages
 
----
-
-## 🚀 Current Focus
-
-*  Developing **LLM-powered applications** using LangChain, LangGraph & Groq
-*  Building **full-stack AI apps** with Next.js and modern backend stacks
-*  Exploring **AI in networking & real-time systems**
-*  Strengthening **DSA, problem solving & system design** 
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
 `Python` `Java` `C` `SQL`
 
-### 🧠 AI / Machine Learning / GenAI
-`TensorFlow` `PyTorch` `Scikit-learn` `NumPy` `Pandas`  
-`LangChain` `LangGraph` `Sentence-BERT`  
-`OpenAI` `Groq API` `Gemini`  
-`RAG Systems` `AI Agents` `Prompt Engineering`
+### Machine Learning
 
-### 🌐 Full Stack Development
-`Next.js` `React.js` `Node.js` `Express.js`  
-`Flask` `REST APIs` `Tailwind CSS`
+`TensorFlow` `PyTorch` `Scikit-learn` `NumPy` `Pandas`
 
-### 🗄 Databases & Cloud
-`PostgreSQL` `MongoDB` `MySQL`  
-`Firebase` `Supabase`  
-`AWS`
+### Generative AI
 
-### ⚙️ DevOps & Tools
-`Git` `GitHub` `Docker` `Postman`  
-`Vercel` `VS Code` `Jupyter` `Google Colab`
+`LangChain` `LangGraph` `OpenAI` `Groq` `Gemini` `RAG` `AI Agents`
 
-### 📡 Systems, Networking & ECE
-`Socket Programming` `TCP/IP` `DNS` `HTTP/HTTPS`  
-`Scapy` `Wireshark`  
-`MATLAB` `Cadence Virtuoso` `Spectre`
+### Web Development
 
-### 🏆 Competitive Programming
-CodeChef (2★ | max rating: 1544) • Codeforces (max rating: 1159)
-*  **HackerRank**: 5★ Problem Solving | 4★ Python
+`Next.js` `React.js` `Node.js` `Express.js` `Flask` `REST APIs` `Tailwind CSS`
 
-### 📜 Certifications
-* **AWS Certified Cloud Practitioner**
-* **Microsoft Azure AI Engineer Associate**
-* **Oracle Data Science Professional**  
-* **Microsoft Azure AI Fundamentals**
+### Databases
 
+`PostgreSQL` `MongoDB` `MySQL` `Firebase` `Supabase`
+
+### DevOps and Tools
+
+`Git` `GitHub` `Docker` `Postman` `Vercel` `VS Code`
+
+### Networking and ECE
+
+`TCP/IP` `DNS` `HTTP/HTTPS` `Socket Programming` `Scapy` `Wireshark` `MATLAB` `Cadence Virtuoso`
+
+## Competitive Programming
+
+* CodeChef: 2★ | Max Rating: 1544
+* Codeforces: Max Rating: 1159
+* HackerRank: 5★ Problem Solving | 4★ Python
+
+## Certifications
+
+* AWS Certified Cloud Practitioner
+* Microsoft Azure AI Engineer Associate
+* Oracle Data Science Professional
+* Microsoft Azure AI Fundamentals
 * Deep Learning with TensorFlow — IBM
 * Data Analysis with Python — freeCodeCamp
 * Docker Essentials — IBM
 * Foundations of Agents — Hugging Face
 * Geodata Processing using ML — IIRS ISRO
 
----
-
-## 📈 GitHub Analytics
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=tokyonight" />
 </p>
 
----
+## Goals
 
-## 🧭 What I’m Aiming For
+* Improve DSA and problem solving
+* Build scalable backend systems
+* Learn system design
+* Contribute to open-source projects
+* Build and deploy useful software
 
-* Building **AI systems that scale to real-world impact**
-* Mastering **DSA, system design, and backend engineering**
-* Contributing to **open-source AI & developer tools**
-
----
-
-##  Let's Connect
+## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/gayathri-yerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/gayathri__yerra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/y_gayathri0506"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/gayathri_yerra"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gayathri-yerra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/gayathri__yerra">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/y_gayathri0506">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/gayathri_yerra">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
----
+## Contact
 
-##  Contact
-
-📧 **[y.gayathri0506@gmail.com](mailto:y.gayathri0506@gmail.com)**
-
-
-> *"Great engineering is where intelligence meets usability."*
+**[y.gayathri0506@gmail.com](mailto:y.gayathri0506@gmail.com)**
